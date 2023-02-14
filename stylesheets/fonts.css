@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "PFDinCondensedLight";
+  src: url("../fonts/PFDinCondensedLight/PFDinCondensedLight.eot");
+  src: url("../fonts/PFDinCondensedLight/PFDinCondensedLight.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/PFDinCondensedLight/PFDinCondensedLight.woff") format("woff"),
+  url("../fonts/PFDinCondensedLight/PFDinCondensedLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "PFDinCondensedRegular";
+    src: url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.eot");
+    src: url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.woff") format("woff"),
+    url("../fonts/PFDinCondensedRegular/PFDinCondensedRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
